@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Switch Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 12f7f2a0a7c1309429098b80b0e793af, type: 3}
+    totalSpriteSurfaceArea: 270000
+    bindAsDefault: 1
+    storedHash:
+      serializedVersion: 2
+      Hash: ad042a990e37e61c7db7a3e83bcb6ada
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: db89e410b625e5c4bb694320258f6971, type: 3}
+  - {fileID: 21300000, guid: a2b50d703f54a494791200a0d6bacfbe, type: 3}
+  - {fileID: 21300000, guid: 905763c03dbfed54a984060dcd07aaf1, type: 3}
+  - {fileID: 21300000, guid: fbbe5bc0a4a9928438f5108c8556e5b3, type: 3}
+  - {fileID: 21300000, guid: 134fe211fddcdaf43b4a34cda12b319b, type: 3}
+  - {fileID: 21300000, guid: 9b0475b2119ec0c47a13e7e349200b0f, type: 3}
+  - {fileID: 21300000, guid: 1fea4473609a79a499f21a64c0311aa8, type: 3}
+  - {fileID: 21300000, guid: e9c2d864284651e4b9f462498e9142d6, type: 3}
+  - {fileID: 21300000, guid: c5236c748695fea46b136885aa7e1598, type: 3}
+  - {fileID: 21300000, guid: 5ff7e275a2d9f164699cd7f2a9c1781d, type: 3}
+  - {fileID: 21300000, guid: 8dc0447574c1afd4a945a8756f039142, type: 3}
+  - {fileID: 21300000, guid: 144de5b58ad0e69448707e56fb42ef70, type: 3}
+  - {fileID: 21300000, guid: 3e02ea367b112674e8459a600deb0947, type: 3}
+  - {fileID: 21300000, guid: d09102661903d0647b19287130329e00, type: 3}
+  - {fileID: 21300000, guid: 94fdadf773a578f47aab2bbe9421a63c, type: 3}
+  - {fileID: 21300000, guid: 3c56b9d8731dc2f4aa11d710a07a7f32, type: 3}
+  - {fileID: 21300000, guid: 81fae4c9b1549624a83315f650b9f778, type: 3}
+  - {fileID: 21300000, guid: ca41931ab0688a84fa603c3ccea2d0ea, type: 3}
+  - {fileID: 21300000, guid: f5912d2ae5338384c9a42de1f996d33a, type: 3}
+  - {fileID: 21300000, guid: 3214898a576d2814c822fb6b71f9f205, type: 3}
+  - {fileID: 21300000, guid: d858e14cce479a54295430b6bc714ae2, type: 3}
+  - {fileID: 21300000, guid: dba4d87d0e3bb1547b322eb35a2467af, type: 3}
+  - {fileID: 21300000, guid: 6919647e7287d3a469a4ccbf386323a9, type: 3}
+  - {fileID: 21300000, guid: be834b9e571fb1f48b00d1a9b48cec31, type: 3}
+  - {fileID: 21300000, guid: c805373f1623da54abda14c76d1f64ca, type: 3}
+  - {fileID: 21300000, guid: 35a6868f7b00bf44190b265a11f27ad1, type: 3}
+  - {fileID: 21300000, guid: 7f1093bf23014ad4b8609298db50e20d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Switch_Controllers_Separate
+  - Switch_RT
+  - Switch_Dpad_Left
+  - Switch_Dpad_Up
+  - Switch_Right
+  - Switch_Controller_Right
+  - Switch_Dpad_Down
+  - Switch_Square
+  - Switch_LB
+  - Switch_Controller_Left
+  - Switch_Y
+  - Switch_Left
+  - Switch_A
+  - Switch_Dpad_Right
+  - Switch_Controllers
+  - Switch_Left_Stick
+  - Switch_Plus
+  - Switch_LT
+  - Switch_RB
+  - Switch_Right_Stick
+  - Switch_Dpad
+  - Switch_X
+  - Switch_Up
+  - Switch_Down
+  - Switch_B
+  - Switch_Home
+  - Switch_Minus
+  m_Tag: Switch Atlas
+  m_IsVariant: 0

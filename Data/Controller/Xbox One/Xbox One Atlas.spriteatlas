@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Xbox One Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7db9eec489ed85842994d58400d640f8, type: 3}
+    totalSpriteSurfaceArea: 170000
+    bindAsDefault: 1
+    storedHash:
+      serializedVersion: 2
+      Hash: 2a8db203491cda9023c8483c8f6bc7be
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5071e3508e4cdde4383e8dcd181be6c5, type: 3}
+  - {fileID: 21300000, guid: 152d4d61f9593a340b784cc5a186e484, type: 3}
+  - {fileID: 21300000, guid: 4e4d71e5ed70ff84c9b5e239b46b0cdb, type: 3}
+  - {fileID: 21300000, guid: fc0ef4f5b8800294d82604af4c4ba69f, type: 3}
+  - {fileID: 21300000, guid: 9dc5fb46c0f495940b28d58f6f692563, type: 3}
+  - {fileID: 21300000, guid: a53897971b4fa614e8607f7abb3fab5a, type: 3}
+  - {fileID: 21300000, guid: d278183854cfed64a9634d6604980c42, type: 3}
+  - {fileID: 21300000, guid: 862b566885a6b00488abe2754b6548cc, type: 3}
+  - {fileID: 21300000, guid: a248bff8d691f1348828f62bc844194c, type: 3}
+  - {fileID: 21300000, guid: 7b346cca5e15aa34b91e2f485d09c30f, type: 3}
+  - {fileID: 21300000, guid: 9076cf6b1ac7fa74f993a6d079bee8ee, type: 3}
+  - {fileID: 21300000, guid: f602e49b1d6a9024ca3423aa9cecb974, type: 3}
+  - {fileID: 21300000, guid: 861641dc43b4e804584557ed54c98c6e, type: 3}
+  - {fileID: 21300000, guid: ecc636ec11613d845b42258ca3e7259a, type: 3}
+  - {fileID: 21300000, guid: 675798bd09c5b0d409013f0a61abc061, type: 3}
+  - {fileID: 21300000, guid: 7676dbbda44d246469d9c75dd196218d, type: 3}
+  - {fileID: 21300000, guid: 1704356e34dccd64dba0f49253c4f4b5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - XboxOne_Dpad_Up
+  - XboxOne_A
+  - XboxOne_RB
+  - XboxOne_X
+  - XboxOne_Y
+  - XboxOne_LB
+  - XboxOne_Right_Stick
+  - XboxOne_Windows
+  - XboxOne_Left_Stick
+  - XboxOne_Dpad_Left
+  - XboxOne_Dpad_Down
+  - XboxOne_B
+  - XboxOne_Menu
+  - XboxOne_LT
+  - XboxOne_RT
+  - XboxOne_Dpad_Right
+  - XboxOne_Dpad
+  m_Tag: Xbox One Atlas
+  m_IsVariant: 0

@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Xbox 360 Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 41c5420b99e5e5244a69a15a97dd27c8, type: 3}
+    totalSpriteSurfaceArea: 170000
+    bindAsDefault: 1
+    storedHash:
+      serializedVersion: 2
+      Hash: aa0ad01e8c9374185efb15ebd3032fb1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a5a0c720ad698224aa2eccaac139b57c, type: 3}
+  - {fileID: 21300000, guid: 38c3daa0d21e7874a9dde43d009f71fe, type: 3}
+  - {fileID: 21300000, guid: 29d3ec31df0adfa44a2f17780bd1f9cc, type: 3}
+  - {fileID: 21300000, guid: 2bd57f826bb481e4ebf6a2baf866a5c4, type: 3}
+  - {fileID: 21300000, guid: f0563c92a824b6a4580477ac95c67e3b, type: 3}
+  - {fileID: 21300000, guid: 836db1c20aa3aed49a04244b47fc934a, type: 3}
+  - {fileID: 21300000, guid: a970bdd2bed25544cb31c00831245e92, type: 3}
+  - {fileID: 21300000, guid: df8035147ef25cc41b8cbfc346648341, type: 3}
+  - {fileID: 21300000, guid: b70ba1a42045bb34f9bbd356d5ecf464, type: 3}
+  - {fileID: 21300000, guid: ac511575adeebc648a9328e3f1a0d338, type: 3}
+  - {fileID: 21300000, guid: b945f57a5d830f04c8c087632757f3d8, type: 3}
+  - {fileID: 21300000, guid: 1ec9fbfaae3720e48a31316545ae4f72, type: 3}
+  - {fileID: 21300000, guid: bde4905bee76172409a44b1f5f246be2, type: 3}
+  - {fileID: 21300000, guid: 4bdcc02d32ff12d46ad56052b077a141, type: 3}
+  - {fileID: 21300000, guid: 5bf578bd0d806b241b710fd20cadfa1e, type: 3}
+  - {fileID: 21300000, guid: 1b86811e622108f4689262a61ad5ae06, type: 3}
+  - {fileID: 21300000, guid: c57f705e746b50d4a92dd8928d8c5f95, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 360_LT
+  - 360_RT
+  - 360_Back
+  - 360_Left_Stick
+  - 360_A
+  - 360_Start
+  - 360_Dpad
+  - 360_LB
+  - 360_B
+  - 360_Dpad_Right
+  - 360_X
+  - 360_RB
+  - 360_Dpad_Left
+  - 360_Dpad_Up
+  - 360_Right_Stick
+  - 360_Dpad_Down
+  - 360_Y
+  m_Tag: Xbox 360 Atlas
+  m_IsVariant: 0

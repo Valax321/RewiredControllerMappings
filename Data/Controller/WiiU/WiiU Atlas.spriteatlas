@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WiiU Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5d4a41d3c59b2f342939c07ab4d6dc76, type: 3}
+    totalSpriteSurfaceArea: 240000
+    bindAsDefault: 1
+    storedHash:
+      serializedVersion: 2
+      Hash: 8773ccb9a799f505d6eae70ea6abcb8f
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: cd2f5e0023f86a34ca63a09862dc02fc, type: 3}
+  - {fileID: 21300000, guid: 5491cc403c1b09a4b8b7a70c20b34d0e, type: 3}
+  - {fileID: 21300000, guid: 2ba645803e95c3d4ba86136b202dc738, type: 3}
+  - {fileID: 21300000, guid: 770189b03f74c124ba4f3f2e470ee5b7, type: 3}
+  - {fileID: 21300000, guid: 6aa121f0d9c6766459734a4b7a16a952, type: 3}
+  - {fileID: 21300000, guid: f3a35912f575db04d9e0a12cbe8514f0, type: 3}
+  - {fileID: 21300000, guid: f1ebc7823fd30e449b69c58ccbd99c0b, type: 3}
+  - {fileID: 21300000, guid: 1fe850138812bb34d81abed9512323ce, type: 3}
+  - {fileID: 21300000, guid: 08b96c538e3f7a64f8d8d5f42eba4e35, type: 3}
+  - {fileID: 21300000, guid: 0932cbb3060444647833c29483e08984, type: 3}
+  - {fileID: 21300000, guid: aac62b059694f68408af3191f4f92e5f, type: 3}
+  - {fileID: 21300000, guid: 8c18c828f049a274dbba11e3b499bb17, type: 3}
+  - {fileID: 21300000, guid: f0458378e05bd99499ca193a4b005121, type: 3}
+  - {fileID: 21300000, guid: f74bb298d3419674eb6e0b2c3c5da37d, type: 3}
+  - {fileID: 21300000, guid: 4e7fd119dacebf24cbab360365f3a49a, type: 3}
+  - {fileID: 21300000, guid: 8b59305af8a35044ea1edce423ded73e, type: 3}
+  - {fileID: 21300000, guid: 404c0d8acc0e6a546bc8ac485eabaaac, type: 3}
+  - {fileID: 21300000, guid: 757c14eaedea05349a60e50a7f8d38dd, type: 3}
+  - {fileID: 21300000, guid: aedcd4eb659d7f14dba1eabfce6b7fdb, type: 3}
+  - {fileID: 21300000, guid: 0479915c9eee17f499b19a48639a36d1, type: 3}
+  - {fileID: 21300000, guid: 5fbe0e0df436f3e4c875b0622951bc16, type: 3}
+  - {fileID: 21300000, guid: 6874541dc22f84d49b6eaea31439234e, type: 3}
+  - {fileID: 21300000, guid: bc3896ad82b22114dac8f4333c24062e, type: 3}
+  - {fileID: 21300000, guid: 631397bea6bf68548a7edcd985e6472f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - WiiU_Look_Up
+  - WiiU_2
+  - WiiU_Home
+  - WiiU_Power
+  - WiiU_Dpad_Down
+  - WiiU_R
+  - WiiU_ZR
+  - WiiU_B
+  - WiiU_ZL
+  - WiiU_Dpad
+  - WiiU_Right_Stick
+  - WiiU_Y
+  - WiiU_Dpad_Left
+  - WiiU_A
+  - WiiU_Minus
+  - WiiU_Left_Stick
+  - WiiU_Dpad_Up
+  - WiiU_X
+  - WiiU_1
+  - WiiU_L
+  - WiiU_Look_Down
+  - WiiU_Plus
+  - WiiU_TV
+  - WiiU_Dpad_Right
+  m_Tag: WiiU Atlas
+  m_IsVariant: 0

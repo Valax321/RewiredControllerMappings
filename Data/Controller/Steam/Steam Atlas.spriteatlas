@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Steam Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 16f2dbf75fc19474aa15d52d95f99ef8, type: 3}
+    totalSpriteSurfaceArea: 300000
+    bindAsDefault: 1
+    storedHash:
+      serializedVersion: 2
+      Hash: 8f494ec38266a2c77b9ac3ddba5923c2
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c7433f30ed5233b4385a2b911ec11946, type: 3}
+  - {fileID: 21300000, guid: 01ca2150795154647812a5f5a0552925, type: 3}
+  - {fileID: 21300000, guid: 260ef060507f4164399dddb2a7f1dd29, type: 3}
+  - {fileID: 21300000, guid: 6bfc76b0ff8172340b83ec4aa25caf9b, type: 3}
+  - {fileID: 21300000, guid: fe14e9e0ddb0c9d41995849f2122ddee, type: 3}
+  - {fileID: 21300000, guid: 5a6f1e414b11f31489e7d03cba0a5ba6, type: 3}
+  - {fileID: 21300000, guid: bc731671d5287cb4e93d45598ecbedef, type: 3}
+  - {fileID: 21300000, guid: cda9f8332e518b942b85e79c093e83be, type: 3}
+  - {fileID: 21300000, guid: 75bdc1532ad16f44fa1e628b5d1efa50, type: 3}
+  - {fileID: 21300000, guid: 7479b7d3d1ab95e44a0808be9676646e, type: 3}
+  - {fileID: 21300000, guid: b3dd7a16478e9cc45a111752b027115c, type: 3}
+  - {fileID: 21300000, guid: 841adc270af156b40b7f1e191fbaae04, type: 3}
+  - {fileID: 21300000, guid: 24c267b748064284d80b2ff128293a03, type: 3}
+  - {fileID: 21300000, guid: 9b85992856291024c9b4de53090590d3, type: 3}
+  - {fileID: 21300000, guid: 53ba319892d169b4fb25a8ba04063b7c, type: 3}
+  - {fileID: 21300000, guid: 5a3c5609cfb8b414ba9193e9b8716981, type: 3}
+  - {fileID: 21300000, guid: 7e781c094085804438ab7bb2ad90f251, type: 3}
+  - {fileID: 21300000, guid: ccda87d9db87715498883ab0a4ca5bc2, type: 3}
+  - {fileID: 21300000, guid: 5f078c4a15c4f6f42b99afca08682267, type: 3}
+  - {fileID: 21300000, guid: 416561aae60d0934bbbcd6dae3744e71, type: 3}
+  - {fileID: 21300000, guid: 6c06b75b80064b54d9bb4626c2371ad4, type: 3}
+  - {fileID: 21300000, guid: 0f7dfa5b2b0cab649ad35157d5609675, type: 3}
+  - {fileID: 21300000, guid: 3aaa01fbaa127f342a370a90c8eb4568, type: 3}
+  - {fileID: 21300000, guid: ff5a955c96f573f439dbe2a68cd9aa31, type: 3}
+  - {fileID: 21300000, guid: 6d5e60dc7f21dc648838239e8ead995f, type: 3}
+  - {fileID: 21300000, guid: fc9178fc40cb0f4488c77f42de1360d6, type: 3}
+  - {fileID: 21300000, guid: a46bd1fdab6d85c49934de0e3590bf63, type: 3}
+  - {fileID: 21300000, guid: 6ae1e12e50279f548ab36884229c7daf, type: 3}
+  - {fileID: 21300000, guid: 2433212f512dc3844902a6d2e0dd3fca, type: 3}
+  - {fileID: 21300000, guid: b6f1ccdfcacac544c8c57cda7a4cb6c7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Steam_X
+  - Steam_Left_Track_Right
+  - Steam_Right_Grip
+  - Steam_Left_Grip
+  - Steam_LT
+  - Steam_Tilt_Roll
+  - Steam_RB
+  - Steam_System
+  - Steam_Left_Track_Down
+  - Steam_Start
+  - Steam_Y
+  - Steam_Tilt_Pitch
+  - Steam_RT
+  - Steam_Stick
+  - Steam_Back
+  - Steam_Right_Track_Left
+  - Steam_Tilt_Yaw
+  - Steam_Right_Track_Down
+  - Steam_LB
+  - Steam_Right_Track_Right
+  - Steam_Left_Track
+  - Steam_Left_Track_Left
+  - Steam_Left_Track_Center
+  - Steam_Right_Track_Center
+  - Steam_Right_Track_Up
+  - Steam_A
+  - Steam_Right_Track
+  - Steam_Gyro
+  - Steam_Left_Track_Up
+  - Steam_B
+  m_Tag: Steam Atlas
+  m_IsVariant: 0

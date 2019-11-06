@@ -1,0 +1,16 @@
+{
+    "name": "Valax321.ControllerPrompts.Editor",
+    "references": [
+        "GUID:3db0791739f2adf4ba1d208866cee550"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "com.valax321.controllerprompts",
+  "displayName": "Controller Prompts",
+  "description": "Controller button prompts for Rewired. Supports Xbox 360, Xbox One, PS4, PS3, Switch and Steam Controller icons.",
+  "version": "1.0.0",
+  "unity": "2019.2",
+  "type": "library"
+}
