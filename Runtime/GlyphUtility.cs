@@ -63,7 +63,7 @@ namespace Valax321.ControllerPrompts
                     break;
                 default:
                     var template = controller.Templates.First();
-                    glyphID = template.GetElement(action.elementIndex).id;
+                    glyphID = template.GetElement(action.elementIdentifierId).id;
                     break;
             }
 
